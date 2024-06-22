@@ -61,7 +61,7 @@ const reset =()=>{
 
 }
   return (
-    <div className='w-2/4 m-auto mt-40 bg-slate-300 text-slate-900 flex flex-col gap-5 rounded-2xl px-2 py-2'>
+    <div className='w-2/4 m-auto mt-20 bg-slate-300 text-slate-900 flex flex-col gap-5 rounded-2xl px-2 py-2'>
       <h1 className='m-auto flex pt-2 text-xl'>
         QUIZ WORLD
       </h1>

@@ -4,6 +4,7 @@ const App = () => {
   return (
   <>
   <Quiz/>
+  <div className='p-5 m-auto flex flex-col text-center'>copyright @ Devesh Tripathi</div>
   </>
   )
 }
