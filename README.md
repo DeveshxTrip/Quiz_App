@@ -10,4 +10,4 @@ To run this file on the local device, you have to follow the simple steps
 
 
 
-The Project is live here {}
+The Project is live here {https://quiz-app-git-major-deveshxtrips-projects.vercel.app/}
